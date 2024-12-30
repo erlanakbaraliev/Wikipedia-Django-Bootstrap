@@ -7,6 +7,8 @@ Skills Demonstrated
 6. Template Inheritance and Context Variables
 7. CSRF Protection
 
+
+
 1. All pages
 ![Screenshot 2024-12-30 212546](https://github.com/user-attachments/assets/7dce2bd0-e365-4a06-85f6-1aa040584c0c)
 2. Selected Page
