@@ -15,4 +15,5 @@ Create a new page
 Result of the created page
 ![Screenshot 2024-12-30 212858](https://github.com/user-attachments/assets/95e23a33-eeb8-41cb-bd0e-3fe17fad0fd3)
 The newly created page in All pages
+
 ![Screenshot 2024-12-30 212903](https://github.com/user-attachments/assets/000ac96c-4430-438f-8689-7c5a789b743c)
